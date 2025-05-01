@@ -1,4 +1,3 @@
-
 import requests
 import webbrowser
 import random
